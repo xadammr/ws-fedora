@@ -1,0 +1,7 @@
+[wslu]
+name=wslu (EL8)
+type=rpm-md
+baseurl=https://download.opensuse.org/repositories/home:/wslutilities/CentOS_8/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/home:/wslutilities/CentOS_8/repodata/repomd.xml.key
+enabled=1
